@@ -5,4 +5,5 @@ tests/
 *.txt
 !/requirements.txt
 venv/
+python3 -m pip install -r requirements.txt
 
